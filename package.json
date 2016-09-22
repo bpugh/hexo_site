@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.1.1"
+    "version": "3.2.2"
+  },
+  "scripts": {
+    "build": "hexo generate && cp _redirects ./public/_redirects"
   },
   "dependencies": {
     "hexo": "^3.1.0",
