@@ -1,5 +1,5 @@
 # Rewrite a path
-/ /blog/index.html    200
+/             https://www.brandonpugh.com
 /google       https://google.com
 /vim          https://raw.githubusercontent.com/bpugh/dotfiles/master/.vimrc
 /links https://pinboard.in/u:bpugh
